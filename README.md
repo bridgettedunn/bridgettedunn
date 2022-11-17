@@ -1,1 +1,1 @@
-WEB DEV - HTML, CSS, JS, JAVA, PHP, MySQL, Python.     
+AAS in Web/App/Software Dev - HTML, CSS, JS, JAVA/OOP, PHP, MySQL, Python, etc.    
